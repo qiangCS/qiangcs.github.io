@@ -18,7 +18,7 @@ My research focuses on leveraging machine learning, data science, and computatio
 - Cross-modal synthesis of structural and functional biomedical data  
 - Applications of high-dimensional data in precision health and personalized medicine  
 
-I received my Ph.D. in Mathematics from Georgia State University, where my research focused on the intersection of artificial intelligence and medical imaging. I was also actively involved in collaborations with the Winship Cancer Institute of Emory University, contributing to groundbreaking projects in cancer diagnostics and survival analysis. Prior to my Ph.D., I earned a Master's degree in Mathematics and a Master's degree in Computer Engineering, along with a Bachelor's degree in Port, Waterway, and Coastal Engineering from [University Name].
+I received my Ph.D. in Mathematics from Georgia State University, where my research focused on the intersection of artificial intelligence and medical imaging. I was also actively involved in collaborations with the Winship Cancer Institute of Emory University, contributing to groundbreaking projects in cancer diagnostics and survival analysis. Prior to my Ph.D., I earned a Master's degree in Computer Engineering at Georgia Tech.
 
 The pronunciation of my name is similar to `/li tʃjɑŋ/`. In Chinese, it is 李强.
 
