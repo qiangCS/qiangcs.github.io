@@ -6,8 +6,66 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an research fellow in the school of medicine at Emory University.. My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications.
 
-I am an research fellow in the school of medicine at Emory University.
+## Interests and Education
+
+| **Interests**                              | **Education**                                                                 |
+|--------------------------------------------|-------------------------------------------------------------------------------|
+| - AI for Health and Precision Medicine     | **Ph.D. in Mathematics**<br>Georgia State University, 2024                   |
+| - Computational Data Science               | **M.Sc. in Mathematics**<br>[Your University], 2017                          |
+| - Multimodal Data Fusion                   | **M.Sc. in Computer Engineering**<br>[Your University], 2017                 |
+| - Cancer Survival Analysis                 | **B.Sc. in Port, Waterway, and Coastal Engineering**<br>[Your University], 2012 |
+| - Advanced Machine Learning Techniques     |                                                                               |
+
+---
+
+### Explanation:
+1. **Interests and Education Side-by-Side**:  
+   - The **table** creates a two-column layout, with Interests on the left and Education on the right.
+   - Use `<br>` for line breaks inside the Education column to create a structured look.
+
+2. **Markdown Support**:
+   - GitHub Pages, Hugo, or Jekyll will render this table properly when Markdown is converted to HTML.
+
+---
+
+### Markdown Example with Custom Styling (Static Site Generator)
+If you’re using Hugo or Jekyll, you can create parallel sections with CSS classes. Here’s an example:
+
+```markdown
+# About Me
+
+I am an Assistant Professor in the Department of Mathematics and Statistics at [Your Institution]. My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications.
+
+<div class="parallel-sections">
+  <div class="section">
+    ## Interests
+    - AI for Health and Precision Medicine
+    - Computational Data Science
+    - Multimodal Data Fusion
+    - Cancer Survival Analysis
+    - Advanced Machine Learning Techniques
+  </div>
+
+  <div class="section">
+    ## Education
+    - **Ph.D. in Mathematics**  
+      Georgia State University, 2024
+    - **M.Sc. in Mathematics**  
+      [Your University], 2017
+    - **M.Sc. in Computer Engineering**  
+      [Your University], 2017
+    - **B.Sc. in Port, Waterway, and Coastal Engineering**  
+      [Your University], 2012
+  </div>
+</div>
+
+
+
+
+
+
 
 My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications. I aim to advance precision medicine and improve patient outcomes by integrating multimodal data and developing innovative algorithms. My recent work focuses on:
 
