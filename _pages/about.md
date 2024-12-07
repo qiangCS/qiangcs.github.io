@@ -7,7 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am Li Qiang, Ph.D., an educator and researcher with a background in applied mathematics, machine learning, and bioinformatics. My research focuses on integrating data from diverse sources, such as Whole slide images(WSI), genomic, histological, and clinical data, to address challenges in cancer survival analysis and treatment response prediction. I am passionate about contributing to the advancement of personalized healthcare through collaborative efforts and innovative computational tools. As an educator, I strive to create supportive learning environments, teaching mathematics, and helping students develop skills that prepare them for meaningful contributions to the field.
+# About Me
+
+I am an research fellow in the school of medicine at Emory University.
+
+My research focuses on leveraging machine learning, data science, and computational techniques to address challenges in healthcare and biomedical applications. I aim to advance precision medicine and improve patient outcomes by integrating multimodal data and developing innovative algorithms. My recent work focuses on:
+
+- Multimodal data integration for cancer survival analysis and treatment response prediction  
+- Graph-based and transformer-based methods for histological image analysis  
+- Cross-modal synthesis of structural and functional biomedical data  
+- Applications of high-dimensional data in precision health and personalized medicine  
+
+I received my Ph.D. in Mathematics from Georgia State University, where my research focused on the intersection of artificial intelligence and medical imaging. I was also actively involved in collaborations with the Winship Cancer Institute of Emory University, contributing to groundbreaking projects in cancer diagnostics and survival analysis. Prior to my Ph.D., I earned a Master's degree in Mathematics and a Master's degree in Computer Engineering, along with a Bachelor's degree in Port, Waterway, and Coastal Engineering from [University Name].
+
+The pronunciation of my name is similar to `/li tʃjɑŋ/`. In Chinese, it is 李强.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
